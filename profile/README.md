@@ -3,16 +3,9 @@
 We're a group of small developers and build free tools for developers who work with data and applications.
 
 **What we do**
-- Connect old software to new systems
+- Connect (old) software to new systems
 - Move data around reliably
 - Make integrations less painful
-
-**Our tools**
-- Portway - API gateway for legacy databases
-- Reef - Export and sync data
-- Beacon - Email consent management
-- Trignis - Track database changes
-- Relayway - Email sending service
 
 **Why free?**
 
