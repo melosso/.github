@@ -9,7 +9,7 @@ We're a group of small developers and build free tools for developers who work w
 
 **Why free?**
 
-We believe good tools should be available to everyone. No licenses, no paywalls.
+We believe accessable tools should be available to everyone. No licenses, no paywalls. 
 
 **Want to help?**
 
