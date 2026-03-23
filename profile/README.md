@@ -13,6 +13,7 @@ We believe good tools should be available to everyone. No licenses, no paywalls.
 
 **Want to help?**
 
-We're looking for contributors. Check our repos, open issues, or just say hi.
+We're looking for contributors. Check our repositories, for example for open issues, or start contributing by submitting your PR!
+
 - Website: https://melosso.com
 - GitHub: https://github.com/melosso
