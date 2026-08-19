@@ -10,7 +10,7 @@ We’re a small team of developers from the Netherlands and Belgium building fre
 
 **Why free?**
 
-We think great tools should be accessible to everyone: no paywalls, no licenses, no catch.
+We think great tools should be accessible to everyone: no paywalls, no licenses, no catch. All our software is licensed under the EUPL to keep it open, legally safe, and freely available forever.
 
 **Get involved**
 
