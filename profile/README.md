@@ -1,19 +1,20 @@
-### **Melosso**
+**Melosso**
 
-We're a group of small developers and build free tools for developers who work with data and applications.
+We’re a small team of developers from the Netherlands and Belgium building free, open-source tools to make working with data and apps a whole lot easier, with a main focus on .NET.
 
 **What we do**
-- Connect (old) software to new systems
-- Move data around reliably
-- Make integrations less painful
+
+* Bridge the gap between legacy software and modern systems
+* Move data reliably without the hassle
+* Take the pain out of integrations
 
 **Why free?**
 
-We believe accessable tools should be available to everyone. No licenses, no paywalls. 
+We think great tools should be accessible to everyone: no paywalls, no licenses, no catch.
 
-**Want to help?**
+**Get involved**
 
-We're looking for contributors. Check our repositories, for example for open issues, or start contributing by submitting your PR!
+Want to build with us? We’d love the extra hands. Jump into our GitHub repositories, check out the open issues, or send a pull request our way.
 
-- Website: https://melosso.com
-- GitHub: https://github.com/melosso
+* Website: [https://melosso.com](https://melosso.com)
+* GitHub: [https://github.com/melosso](https://github.com/melosso)
